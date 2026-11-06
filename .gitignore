@@ -1,0 +1,6 @@
+#Hasil Kompilasi .NET
+bin/
+obj/
+
+# Pengaturan Lokal Visual Studio Code
+.vscode/
